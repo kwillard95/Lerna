@@ -1,9 +1,6 @@
 {
   "name": "@nxt-design-system/button",
   "version": "1.0.5",
-  "scripts": {
-    "bootstrap": "lerna bootstrap --use-workspaces"
-  },
   "publishConfig": {
     "access": "public"
   },
@@ -19,5 +16,5 @@
     "react-dom": "^16.0.0",
     "styled-components": "^5.0.0"
   },
-  "gitHead": "949398028f15246335d9d184f4a9ad6fb7cae21d"
+  "gitHead": "8afb3f070065edaa51f24a2320fd02b38651c280"
 }

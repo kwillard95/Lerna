@@ -1,6 +1,6 @@
 {
   "name": "@nxt-design-system/button",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "scripts": {
     "bootstrap": "lerna bootstrap --use-workspaces"
   },

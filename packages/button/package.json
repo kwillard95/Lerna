@@ -4,6 +4,9 @@
   "scripts": {
     "bootstrap": "lerna bootstrap --use-workspaces"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "lib/index.js",
   "module": "src/index.js",
   "dependencies": {

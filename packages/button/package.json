@@ -1,5 +1,5 @@
 {
-  "name": "@nxt-design-system/button",
+  "name": "@dtc-design-system/button",
   "version": "1.0.6",
   "publishConfig": {
     "access": "public"
@@ -16,5 +16,5 @@
     "react-dom": "^16.0.0",
     "styled-components": "^5.0.0"
   },
-  "gitHead": "8afb3f070065edaa51f24a2320fd02b38651c280"
+  "gitHead": "1444f6fc66035698d61a417112f853c175f7e1f2"
 }

@@ -1,5 +1,5 @@
 {
-  "name": "button",
+  "name": "@nxt-design-system/button",
   "version": "1.0.3",
   "scripts": {
     "bootstrap": "lerna bootstrap --use-workspaces"
@@ -19,5 +19,5 @@
     "react-dom": "^16.0.0",
     "styled-components": "^5.0.0"
   },
-  "gitHead": "c5f2fa4d31f17939772459ab9ae63a8e9b4d56fd"
+  "gitHead": "ed0bbf987d7777337e3a915e5af2f422fb161869"
 }
